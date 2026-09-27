@@ -7,6 +7,7 @@ Solutions are pushed here automatically the moment a submission is accepted, usi
 ## Structure
 
 Each problem gets its own folder
+
 Every problem's `README.md` includes:
 - The problem statement and an example
 - My approach and why it works
