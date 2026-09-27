@@ -2,11 +2,12 @@
 
 My solved LeetCode problems, organized by problem name, with a short write-up for each covering the approach, reasoning, and time/space complexity.
 
-Solutions are pushed here automatically the moment a submission is accepted, using [LeetSync](https://chromewebstore.google.com/detail/leetcode-sync-sync-your-l/ihgdeicfjmaadmboojnmdffkdfnjanlb) — so this repo reflects real solved problems, not backfilled or copied ones.
+Solutions are pushed here automatically the moment a submission is accepted, using [LeetSync](https://chromewebstore.google.com/detail/leetcode-sync-sync-your-l/ihgdeicfjmaadmboojnmdffkdfnjanlb) so this repo reflects real solved problems, not backfilled or copied ones.
 
 ## Structure
 
 Each problem gets its own folder:
+
 leetcode-solutions/
 ├── 1-two-sum/
 │ ├── solution.py
